@@ -1,7 +1,13 @@
 # sparta99-4
 sparta coding club 4th
 
+## D+3 
+### 2021.11.03
 
+https://journeytosth.tistory.com/31?category=409691
+jinja 이용해서 게시물 번호 매기기 후 해당 게시물로 이동시키기 처리하기
+
+<hr>
 ## D+2 TIL
 ### 2021.11.02
 
