@@ -1,6 +1,17 @@
 # sparta99-4
 sparta coding club 4th
 
+## D+4
+### 2021.11.04
+
+1) 지난 1번 이슈 수정: 전시 크롤링 저장되는 exhibition 테이블에 auto increment 되는 id 값 추가생성
+2) 지난 2번 이슈 해결: 스파르타코딩클럽에서 제공한 interpreter 기본 세팅 중 pyJWT 버전 1.7.1. 에서 -> pyJWT 2.3.0 으로 수정
+3) 
+
+
+
+
+
 ## D+3 
 ### 2021.11.03
 
