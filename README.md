@@ -2,7 +2,9 @@
 sparta coding club 4th_1Week
 
 notion: https://www.notion.so/1-483e8f3332744b6592226d2c8c8d83ad
+
 group git: https://github.com/dev-sohye/hanghae99_11
+
 프로젝트 결과물 주소: 전시뭐하니.shop (AWS / 도메인 연동 기간: 2021-11-01 ~ 2022-11-01)
 
 ## D+6 
